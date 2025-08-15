@@ -24,15 +24,6 @@ This project is a **machine learning web application** built with [Streamlit](ht
 
 The Jupyter Notebook `Gold_Price_Prediction.ipynb` contains the data preprocessing, feature selection, and training steps for the predictive model. You can retrain the model by running the notebook and saving the new `.sav` file.
 
-## 🛠 Workflow Diagram
-
-```mermaid
-flowchart TD
-    A[User Input: SPX, GLD, USO, SLV] --> B[Preprocessing: Convert to NumPy array]
-    B --> C[Load Pre-trained Model (traine_model.sav)]
-    C --> D[Model Predicts Gold Price]
-    D --> E[Display Result in Streamlit UI]
-```
 
 ## 📸 Screenshot
 

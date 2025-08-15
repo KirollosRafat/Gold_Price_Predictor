@@ -36,4 +36,5 @@ The Jupyter Notebook `Gold_Price_Prediction.ipynb` contains the data preprocessi
 - **Streamlit** — for the interactive interface  
 - **NumPy** — for numerical computations  
 - **Scikit-learn** — for machine learning model handling  
-- **Pickle** — for model serialization  
+- **Pickle** — for model serialization
+- **Pandas** - for dataframe analysis and feature selection  
